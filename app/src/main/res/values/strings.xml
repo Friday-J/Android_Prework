@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreworkApp</string>
+    <string name="friday_welcome_message">Hello World! My name is Friday. I love Android Development and I happily got wedded last week!</string>
+    <string name="say_hello_button">Click to say Hello!</string>
+</resources>
