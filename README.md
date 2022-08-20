@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-There were not challenges encountered. 
+There were no challenges encountered. 
 The Kotlin tutorials and guidelines for building the app were easy and straigt forward.
 
 
